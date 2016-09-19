@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_lineChart"
+        android:title="折线图"
+        android:showAsAction="collapseActionView">
+    </item>
+    <item
+        android:id="@+id/menu_barChart2d"
+        android:title="柱状图2D"
+        android:showAsAction="collapseActionView"
+        >
+    </item>
+    <item
+        android:id="@+id/menu_barChart3d"
+        android:title="柱状图3D"
+        android:showAsAction="collapseActionView">
+
+    </item>
+    <item
+        android:id="@+id/menu_pieChart"
+        android:title="饼状图"
+        android:showAsAction="collapseActionView">
+
+    </item>
+</menu>
